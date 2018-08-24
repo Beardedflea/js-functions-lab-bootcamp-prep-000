@@ -1,4 +1,10 @@
 // write your code below!
+
+var name = "you"
+
+var holiday = 
+
+
 function happyHolidays(){
    return "Happy holidays!"
 }
